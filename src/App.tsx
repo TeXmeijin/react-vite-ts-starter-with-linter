@@ -1,6 +1,5 @@
-import React from 'react';
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
-import { TopScreen } from '~/components/screens/TopScreen';
+import { TopScreen } from './components/screens/TopScreen';
 
 const App = () => (
   <main>
